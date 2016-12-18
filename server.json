@@ -1,0 +1,18 @@
+{
+   "server":[
+      {
+         "hostname":"test.abc.com",
+         "name":"测试",
+         "port":22,
+         "username":"root",
+         "password":"password"
+      },
+      {
+         "hostname":"test2.abc.com",
+         "name":"测试",
+         "port":22,
+         "username":"root",
+         "password":"password"
+      }
+   ]
+}
